@@ -1,0 +1,21 @@
+
+// Advantages
+
+1. Code reusebility
+2. No need to add delegates and datasource in each class
+3. Easy to manage multiple tableview in single controller
+4. Easy to add tableview
+5. Easy to handle data in tableview cell class
+
+// Drawbacks
+
+1. Current vesrion is not working for multiple sections
+
+// Things You can do
+
+1. Implement pagination (while loading data)
+2. Refresh controller
+3. Show Background view if no data found
+4. API data handling
+
+
