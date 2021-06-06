@@ -3,7 +3,7 @@
 
 1. Code reusebility
 2. No need to add delegates and datasource in each class
-3. Easy to manage multiple tableview in single controller
+3. Easy to manage multiple tableviews in single controller
 4. Easy to add tableview
 5. Easy to handle data in tableview cell class
 
